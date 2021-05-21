@@ -1,0 +1,6 @@
+
+# logging ###########################################################
+logging:
+  level:
+    root: INFO
+    com.musinsa: ERROR
